@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyan-naskar" alt="shreyan-naskar" /></a> </p>
 
-- 🔭 I’m currently perusing [BTech](in Computer Science and Engineering.)
+- 🔭 I’m currently perusing BTech in Computer Science and Engineering.
 
 - 🌱 I’m currently focusing on **Deep Learning.**
 
 - 📫 How to reach me **shreyannaskar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xAS-A-pjq9JjwVmBiWrJCWZk_KWtIimR/view?usp=sharing](https://drive.google.com/file/d/1xAS-A-pjq9JjwVmBiWrJCWZk_KWtIimR/view?usp=sharing)
+- 📄 Know about my experiences [at My Resume](https://drive.google.com/file/d/1xAS-A-pjq9JjwVmBiWrJCWZk_KWtIimR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
