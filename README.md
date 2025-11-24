@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyan-naskar" alt="shreyan-naskar" /></a> </p>
 
-- 🔭 I’m currently perusing BTech in Computer Science and Engineering.
+- 🔭 I’m currently pursueing MTech in Computer Science and Engineering from IIT Kharagpur.
 
 - 🌱 I’m currently focusing on **Deep Learning.**
 
-- 📫 How to reach me **shreyannaskar@gmail.com**
+- 📫 How to reach me **shreyan10.works@gmail.com**
 
 - 📄 Know about my experiences [at My Resume](https://drive.google.com/file/d/1xAS-A-pjq9JjwVmBiWrJCWZk_KWtIimR/view?usp=sharing)
 
