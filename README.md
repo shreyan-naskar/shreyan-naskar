@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyan-naskar" alt="shreyan-naskar" /></a> </p>
 
-- 🔭 I’m currently pursueing MTech in Computer Science and Engineering from IIT Kharagpur.
+- 🔭 I’m currently pursuing MTech in Computer Science and Engineering from IIT Kharagpur.
 
 - 🌱 I’m currently focusing on **Deep Learning.**
 
