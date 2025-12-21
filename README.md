@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend development with Node.js, Express.js and MongoDB.<br>👯 I’m looking to collaborate on Full Stack projects.<br>🤝 I’m looking for help with API design and implementation.<br>🌱 I’m currently learning Express.js<br>⚡ Fun fact : I have previously explored Deep Learning, would like to dive into Generative AI soon.
+🔭 I’m currently working on Backend development with Node.js, Express.js and MongoDB.<br>👯 I’m looking to collaborate on Full Stack projects.<br>🤝 I’m looking for help with API design and implementation.<br>🌱 I’m currently learning Backend Development with Node.js, Express.js & Mongo DB<br>⚡ Fun fact : I have previously explored Deep Learning, would like to dive into Generative AI soon.
 
 
 ## 🌐 Socials:
