@@ -9,7 +9,7 @@
 ---
 
 # 🚀 What I do:
-🔭 I’m currently working on Backend development with Node.js, Express.js and MongoDB.<br🤝 I’m looking for help with API design and implementation.<br>🌱 I’m currently learning Backend Development with Node.js, Express.js & Mongo DB<br>⚡ Fun fact : I have previously explored Deep Learning, would like to dive into Generative AI soon.
+🔭 I’m currently working on Backend development with Node.js, Express.js and MongoDB.<br>🤝 I’m looking for help with API design and implementation.<br>🌱 I’m currently learning Backend Development with Node.js, Express.js & Mongo DB<br>⚡ Fun fact : I have previously explored Deep Learning, would like to dive into Generative AI soon.
 
 ---
 
@@ -21,7 +21,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyan-naskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shreyan-naskar&theme=radical" /><br>
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreyan-naskar&hide_progress=true" />
 </div>
 
