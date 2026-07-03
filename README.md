@@ -22,7 +22,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shreyan-naskar&theme=radical" /><br>
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreyan-naskar&hide_progress=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreyan-naskar&hide_progress=true&layout=pie" />
 </div>
 
 ---
